@@ -1,0 +1,31 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sat Nov 07 10:00:07 2026
+[*]
+[dumpfile] "C:\Users\anala\OneDrive\Desktop\dct_project\dct_project\sim\sim\dct2d.vcd"
+[savefile] "C:\Users\anala\OneDrive\Desktop\dct_project\dct_project\sim\dct.gtkw"
+[timestart] 0
+[size] 859 784
+[pos] 527 -178
+*-18.906908 125000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_dct2d_top.
+[treeopen] tb_dct2d_top.dut.
+[treeopen] tb_dct2d_top.dut.u_col_dct.
+[treeopen] tb_dct2d_top.dut.u_row_dct.
+[treeopen] tb_dct2d_top.dut.u_tbuf.
+[sst_width] 197
+[signals_width] 134
+[sst_expanded] 1
+[sst_vpaned_height] 60
+@28
+tb_dct2d_top.clk
+tb_dct2d_top.rst_n
+tb_dct2d_top.in_valid
+tb_dct2d_top.in_ready
+tb_dct2d_top.out_valid
+tb_dct2d_top.out_last
+tb_dct2d_top.out_idx[2:0]
+@421
+tb_dct2d_top.out_col[95:0]
+[pattern_trace] 1
+[pattern_trace] 0

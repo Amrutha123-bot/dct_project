@@ -1,0 +1,8 @@
+0 all zero
+1 constant 50
+2 horizontal ramp (non-uniform)
+3 JPEG known block (minus 128)
+4 extreme: all -128
+5 extreme: checkerboard +127/-127
+6 pseudo-random (formula)
+7 extreme: all +127
